@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://vinodk-17.github.io/csb-fw1b3q/static/css/main.dfe9f1a4.chunk.css",
+    "main.js": "https://vinodk-17.github.io/csb-fw1b3q/static/js/main.8332d897.chunk.js",
+    "main.js.map": "https://vinodk-17.github.io/csb-fw1b3q/static/js/main.8332d897.chunk.js.map",
+    "runtime-main.js": "https://vinodk-17.github.io/csb-fw1b3q/static/js/runtime-main.79ede476.js",
+    "runtime-main.js.map": "https://vinodk-17.github.io/csb-fw1b3q/static/js/runtime-main.79ede476.js.map",
+    "static/js/2.37edf3e7.chunk.js": "https://vinodk-17.github.io/csb-fw1b3q/static/js/2.37edf3e7.chunk.js",
+    "static/js/2.37edf3e7.chunk.js.map": "https://vinodk-17.github.io/csb-fw1b3q/static/js/2.37edf3e7.chunk.js.map",
+    "index.html": "https://vinodk-17.github.io/csb-fw1b3q/index.html",
+    "static/css/main.dfe9f1a4.chunk.css.map": "https://vinodk-17.github.io/csb-fw1b3q/static/css/main.dfe9f1a4.chunk.css.map",
+    "static/js/2.37edf3e7.chunk.js.LICENSE.txt": "https://vinodk-17.github.io/csb-fw1b3q/static/js/2.37edf3e7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79ede476.js",
+    "static/js/2.37edf3e7.chunk.js",
+    "static/css/main.dfe9f1a4.chunk.css",
+    "static/js/main.8332d897.chunk.js"
+  ]
+}
